@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#particles-js {
+    height: 70%;
+    background: linear-gradient(45deg,#d8407f, #8c00ff);
+}
+
+.main-heading{ 
+   position: absolute;
+   top: 30%;
+   left: 50%;
+   transform: translateX(-50%)
+}
+
+p{
+    width: 100%;
+}
+footer{
+    margin: 0, 45px;
+    padding: 45px, 0;
+}
+
+.end {
+    color: white;
+}
+
+svg{
+    height: 60%;
+    width:60%;
+}
+
+#contacts{
+    color:#b4afb1;
+}
+
+a #contacts:hover,
+a #contacts:active {
+	color:  #8c00ff;
+}
+
+
+
